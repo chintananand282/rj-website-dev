@@ -17,6 +17,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nunito+Sans:wght@400;600;800&display=swap" rel="stylesheet">
 
 <?php wp_head(); ?>
+
+
+
+
 </head>
 
 <body <?php body_class(); ?>>
